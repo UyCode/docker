@@ -1,2 +1,8 @@
 langchain/langchain:latest
 bitnami/mysql:latest
+nodered/node-red:latest
+bitnami/valkey:latest
+minio/minio:latest
+timberio/vector:latest-distroless-static
+elestio/uptime-kuma:latest
+grafana/grafana:latest
