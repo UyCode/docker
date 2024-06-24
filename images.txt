@@ -9,3 +9,6 @@ grafana/grafana:latest
 openjdk:8
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 redis:latest
+bitnami/node:16.15.0
+bitnami/node:18.15.0
+bitnami/node:20.15.0
