@@ -8,3 +8,4 @@ elestio/uptime-kuma:latest
 grafana/grafana:latest
 openjdk:8
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+redis:latest
