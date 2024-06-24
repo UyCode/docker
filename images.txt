@@ -6,3 +6,4 @@ minio/minio:latest
 timberio/vector:latest-distroless-static
 elestio/uptime-kuma:latest
 grafana/grafana:latest
+openjdk:8
