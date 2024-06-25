@@ -12,3 +12,4 @@ redis:latest
 bitnami/node:16.15.0
 bitnami/node:18.15.0
 bitnami/node:20.15.0
+ghcr.io/opendevin/opendevin:main
